@@ -17,4 +17,4 @@ Documentação: https://github.com/rafaelamr/ProjetoTCC/blob/master/Projeto%20TC
 
 Protótipo: https://www.quant-ux.com/#logged_in.html
 
-Estágio atual: toda a parte do agente está pronta, onde acontece o crud das famílias e os respectivos dados de identificação, juntamente com a demanda da semana que será solicitada aos anjos. Faltam as telas dos anjos, para vizualização das famílias cadastradas e a confirmação das entregaso. 
+Estágio atual: toda a parte do agente está pronta, onde acontece o crud das famílias e os respectivos dados de identificação, juntamente com a demanda da semana que será solicitada aos anjos. Faltam as telas dos anjos, para vizualização das famílias cadastradas e a confirmação das entregas. 
